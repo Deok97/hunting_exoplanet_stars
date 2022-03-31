@@ -6,3 +6,6 @@ You can also see the notebook on here
 References:  
   MIKULSKI ARCHIEVE: https://archive.stsci.edu/missions-and-data/k2/campaign-fields.html#c3   
   winterdelta's preproccesed data: https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data  
+
+
+licensed under the Apache License 2.0
